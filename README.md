@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Zombillenium
-- 👀 I’m interested in python
-- 🌱 I’m currently learning machine learning
-- 📫 You can reach me with instagram : leoo.fmt
+- gros geek puant
